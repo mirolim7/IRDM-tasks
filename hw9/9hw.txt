@@ -1,0 +1,23 @@
+HW 9 - 10
+Make a preprocessing with your own dataset and answer the followinng questions: 
+
+NOTE: You can use previous HW datasets and results.
+
+"what (intro) ,  (describe and show original dataset)
+why ( methods ) ,
+ how ( by builtt-in functions or manually) "   
+include all the methods for feature selection and feature exploration ( explain each selection from beginning of selection ( row data ) 
+the comparison resullts of  the models  ( regression /classification / clustering) with preprocessing ( at least 2 different method)  and without missing pattern.
+
+by your conclusion you can record your score  -> [0; 99]  ______mandatory______
+
+Defence is mandatory, without defence = 0, late submission = 0.
+
+Submission:  python cod. 
+
+if your data is not applicable, you can take a data from repo:  https://archive.ics.uci.edu/ml/index.php  
+
+NOTE:  if you are taking a dataset and make analyze by some ready solution, write it in the beginning!!!
+
+CHEATING: 0. 
+
